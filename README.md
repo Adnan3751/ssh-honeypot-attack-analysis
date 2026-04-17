@@ -69,17 +69,17 @@ Kibana Dashboard (Visualization)
 ## 📸 Screenshots
 
 ### ⚔️ SSH Attack Simulation
-![Attack](screenshots/attack-simulation.jpeg)
+![Attack](attack-simulation.jpeg)
 
 ---
 
 ### 📊 Dashboard Visualization
-![Dashboard](screenshots/dashboard.jpeg)
+![Dashboard](dashboard.jpeg)
 
 ---
 
 ### 🔍 Kibana Discover Logs
-![Logs](screenshots/kibana-discover.jpeg)
+![Logs](kibana-discover.jpeg)
 
 ---
 
